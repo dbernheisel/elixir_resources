@@ -1,5 +1,5 @@
 # Getting Started with Elixir
-[Why Elixir?](https://livebook.manning.com/#!/book/the-little-elixir-and-otp-guidebook/chapter-1/section-1-3)
+- [Why Elixir?](https://livebook.manning.com/#!/book/the-little-elixir-and-otp-guidebook/chapter-1/section-1-3) This will require a free account and only give you 5 minutes to read it.
 
 ## Basics:
 - [Jose Valim's How I Start](http://howistart.org/posts/elixir/1/)
