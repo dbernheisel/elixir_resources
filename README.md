@@ -24,7 +24,7 @@
 - [The Little Ecto Cookbook (Free)](https://pages.plataformatec.com.br/the-little-ecto-cookbook) (Update to "What's new in Ecto 2.0" ^ for Ecto 3.1)
 
 ## Database:
-- [Elixir School's Ecto Lesson](https://elixirschool.com/en/lessons/specifics/ecto/)
+- [Elixir School's Ecto Lesson](https://elixirschool.com/en/lessons/ecto/basics)
 
 ## Deployment:
 - [Elixircasts.io Deploying with Heroku](https://elixircasts.io/deploying-elixir-with-heroku)
