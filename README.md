@@ -6,6 +6,7 @@
 - [Official Getting Started Guide](https://elixir-lang.org/getting-started/introduction.html)
 - [Elixir School Basics](https://elixirschool.com/en/lessons/basics/basics/)
 - [Elixir for Rubyists](https://robots.thoughtbot.com/elixir-for-rubyists)
+- [The Soul of Erlang and Elixir (Video)](https://www.youtube.com/watch?v=JvBT4XBdoUE) - Highly recommended for overview of concurrency/distribution model.
 
 ## Courses:
 - [Pragmatic Dave's Elixir for Programmers](https://codestool.coding-gnome.com/courses/elixir-for-programmers)
@@ -16,8 +17,11 @@
 
 ## Books:
 - [Phoenix for Rails Developers](http://www.phoenixforrailsdevelopers.com/)
+- [Elixir in Action (2nd Ed)](https://www.manning.com/books/elixir-in-action-second-edition)
+- [Designing Elixir Systems with OTP](https://pragprog.com/book/jgotp/designing-elixir-systems-with-otp)
 - [Programming Elixir](https://pragprog.com/book/elixir16/programming-elixir-1-6) * Make sure you get the latest version
 - [What's new in Ecto 2.0 (Free)](http://pages.plataformatec.com.br/ebook-whats-new-in-ecto-2-0)
+- [The Little Ecto Cookbook (Free)](https://pages.plataformatec.com.br/the-little-ecto-cookbook) (Update to "What's new in Ecto 2.0" ^ for Ecto 3.1)
 
 ## Database:
 - [Elixir School's Ecto Lesson](https://elixirschool.com/en/lessons/specifics/ecto/)
