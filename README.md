@@ -26,6 +26,10 @@
 ## Database:
 - [Elixir School's Ecto Lesson](https://elixirschool.com/en/lessons/ecto/basics)
 
+## Desktop/Embedded GUI:
+- [Snake with Scenic UI](https://blog.usejournal.com/elixir-scenic-snake-game-b8616b1d7ee0)
+- [Scenic UI](https://github.com/boydm/scenic)
+
 ## Deployment:
 - [Elixircasts.io Deploying with Heroku](https://elixircasts.io/deploying-elixir-with-heroku)
 
