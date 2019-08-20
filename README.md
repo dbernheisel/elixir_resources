@@ -16,6 +16,7 @@
 - [Code School's Try Elixir (Free)](https://www.codeschool.com/courses/try-elixir)
 
 ## Books:
+- [Programming Phoenix](https://pragprog.com/book/phoenix14/programming-phoenix-1-4)
 - [Phoenix for Rails Developers](http://www.phoenixforrailsdevelopers.com/)
 - [Elixir in Action (2nd Ed)](https://www.manning.com/books/elixir-in-action-second-edition)
 - [Designing Elixir Systems with OTP](https://pragprog.com/book/jgotp/designing-elixir-systems-with-otp)
